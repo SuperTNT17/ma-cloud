@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    background-color: #549b8c;
+}
+
+article{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a{
+    color: whitesmoke;
+}
+
+footer{
+    padding: 10px;
+    background-color: #447e71;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
