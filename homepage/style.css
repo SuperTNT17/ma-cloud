@@ -1,11 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: sans-serif;
+}
+
 body{
-    margin: 0px;
+    font-size: 2rem;
     background-color: #549b8c;
 }
 
 article{
-    margin: 10px;
-    font-family: Arial, Helvetica, sans-serif
+    margin: 1rem;
+}
+
+ul{
+    list-style-type: none;
+    margin: 1rem;
 }
 
 a{
@@ -13,7 +28,7 @@ a{
 }
 
 footer{
-    padding: 10px;
+    padding: 1rem;
     background-color: #447e71;
     position: absolute;
     bottom: 0;
